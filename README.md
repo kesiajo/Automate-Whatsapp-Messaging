@@ -5,20 +5,20 @@
 An automated Whatsapp Messaging solution built with Selenium using Python allowing to send messages to multiple (saved or unsaved) contacts with ease.
 
 ## Getting Started
+1. Install Pandas
 ```
 pip3 install pandas
+```
+2. Install Selenium 
+```
 pip3 install -U selenium
+```
+3. Install xlrd
+```
 pip3 install xlrd==1.2.0
 ```
-
-## How to Run
-<ol>
-  <li>Clone this repository.</li>
-  <li>Change the executable path of Chrome Driver in automate-whatsapp.py file.</li>
-  <li>Add name and contact numbers of the recipients in the Participants.xlsx file.</li>
-  <li>Run the file.</li>
-</ol>
-
-
-  
-  
+4. Clone this repository.
+5. Change the executable path of Chrome Driver in automate-whatsapp.py file.
+6. Add name and contact numbers of the recipients in the Participants.xlsx file.
+7. Run the file.
+8. Star and fork this repository.
