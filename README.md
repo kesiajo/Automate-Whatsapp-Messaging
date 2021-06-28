@@ -14,7 +14,7 @@ pip3 install xlrd==1.2.0
 ## How to Run
 <ol>
   <li>Clone this repository.</li>
-  <li>Change the executable of Chrome Driver in automate-whatsapp.py file.</li>
+  <li>Change the executable path of Chrome Driver in automate-whatsapp.py file.</li>
   <li>Add name and contact numbers of the recipients in the Participants.xlsx file.</li>
   <li>Run the file.</li>
 </ol>
